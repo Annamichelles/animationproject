@@ -1,0 +1,6 @@
+<svg class="triangle" width="240" height="240" viewBox="0 0 240 240" fill="none">
+		<polygon points="15,15 230,15 115,230" fill="#3160A7" stroke="white" stroke-width="5"> </polygon>
+		<polyline points="15,15 115,115 230,15" stroke="white" stroke-width="5"> </polyline>
+		<line points="115,115" stroke="white" stroke-width="5"> </line>
+		<line x1="115" y1="115" x2="115" y2="230" stroke="white" stroke-width="5"></line>  	
+</svg>
