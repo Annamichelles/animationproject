@@ -13,7 +13,7 @@ body {
 }
 
 .triangle {
-	animation: pulse 2.5s ease-in-out infinite;
+	animation: rotate 2.5s ease-in-out infinite;
 	animation-fill-mode: none;
 }
 
@@ -25,7 +25,7 @@ body {
 	animation-play-state: paused;
 }
 
-@keyframes pulse {
+@keyframes rotate {
 	0% { transform:scale(1.0) rotate(0deg); }
 	50% { transform:scale(1.2) rotate(20deg); }
 	100% { transform:scale(1.0) rotate(0deg); }
